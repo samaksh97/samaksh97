@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Samaksh
 
+Website: https://samaksh97.github.io/samaksh97/
 
 - 🔭 I’m currently working on Graph Neural Networks and NLP
 - 🌱 I’m currently studying Data Science @ Georgia Tech 
