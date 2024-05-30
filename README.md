@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Samaksh
 
 
-- 🔭 I’m currently working on Recommendation Systems, Time Series and NLP
+- 🔭 I’m currently working on Graph Neural Networks and NLP
 - 🌱 I’m currently studying Data Science @ Georgia Tech 
 - 👯 I’m looking to collaborate on Kaggle Projects, Hackathons
 - 💬 Ask me about Cryptocurrencies, Badmniton, Cricket 
